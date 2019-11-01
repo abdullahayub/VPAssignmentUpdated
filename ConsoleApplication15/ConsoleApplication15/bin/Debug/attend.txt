@@ -1,0 +1,5 @@
+1	Abdullah	P
+2	Abdullah	P
+3	Asad	P
+4	Hassan	A
+5	Ahmad	A
